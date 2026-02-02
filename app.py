@@ -7,7 +7,7 @@ st.set_page_config(
 )
 
 st.title("Search Across Epstein Files Pinpoint Collections")
-st.caption("Launch the same query across multiple Google Pinpoint collections")
+st.markdown("Launch the same query across multiple Google Pinpoint collections")
 
 query = st.text_input(
     "Search query",
@@ -25,7 +25,8 @@ if query:
     encoded_query = urllib.parse.quote(query)
 
     st.subheader("Open results in Pinpoint")
-
+    st.markdown(f'Search results for <span style="color:green;">{query}</span>', unsafe_allow_html=True)
+    
     for name, collection_id in COLLECTIONS.items():
         url = (
             "https://journaliststudio.google.com/pinpoint/search"
