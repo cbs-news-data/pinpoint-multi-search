@@ -16,7 +16,8 @@ query = st.text_input(
 
 COLLECTIONS = {
     "Data Sets 1-8 & 12": "ea371fdea7a785c0",
-    "Data Set 9": "3a62693c54a6b908",
+    "Data Set 9, part 1": "3a62693c54a6b908",
+    "Data Set 9, part 2": "2c41b44764b7e5fe",
     "Data Set 10": "9048f6067cfe6177",
     "Data Set 11": "25ab125b2a2a01ee",
 }
