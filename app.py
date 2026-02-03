@@ -16,10 +16,13 @@ query = st.text_input(
 
 COLLECTIONS = {
     "Data Sets 1-8 & 12": "ea371fdea7a785c0",
-    "Data Set 9, part 1": "3a62693c54a6b908",
-    "Data Set 9, part 2": "2c41b44764b7e5fe",
-    "Data Set 10": "9048f6067cfe6177",
-    "Data Set 11": "25ab125b2a2a01ee",
+    "Data Set 9 (1 of 2)": "3a62693c54a6b908",
+    "Data Set 9 (2 of 2)": "2c41b44764b7e5fe",
+    "Data Set 10 (1 of 3)": "9048f6067cfe6177",
+    "Data Set 10 (2 of 3)": "24065f82a453c46f",
+    "Data Set 10 (3 of 3)": "0feaee37455f425b",
+    "Data Set 11 (1 of 2)": "25ab125b2a2a01ee",
+    "Data Set 11 (2 of 2)": "d99f1d9ce4eb747d",
 }
 
 if query:
