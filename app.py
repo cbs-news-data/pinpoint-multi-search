@@ -27,7 +27,8 @@ COLLECTIONS = {
     "Data Set 11 (2 of 2)": "d99f1d9ce4eb747d",
     "New March Files": '2955b7658524046a',
     'Removed Files': 'd8e218118619c65e',
-    'Court Documents': '1a80ec11c1d7de85'
+    'Court Documents': '1a80ec11c1d7de85',
+    'Allegedly Retracted Docs': 'e28d4972787cd942'
 }
 
 if query:
