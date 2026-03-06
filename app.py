@@ -28,7 +28,7 @@ COLLECTIONS = {
     "New March Files": '2955b7658524046a',
     'Removed Files': 'd8e218118619c65e',
     'Court Documents': '1a80ec11c1d7de85',
-    'Allegedly Retracted Docs': 'e28d4972787cd942'
+    'Additional Docs': 'e28d4972787cd942'
 }
 
 if query:
